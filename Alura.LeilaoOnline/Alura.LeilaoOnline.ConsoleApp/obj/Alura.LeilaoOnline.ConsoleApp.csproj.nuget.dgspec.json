@@ -1,25 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj": {}
+    "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj": {
+    "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
+        "projectUniqueName": "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
         "projectName": "Alura.LeilaoOnline.ConsoleApp",
-        "projectPath": "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\139832\\.nuget\\packages\\",
-        "outputPath": "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\obj\\",
+        "projectPath": "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\matheus.conde\\.nuget\\packages\\",
+        "outputPath": "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\139832\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "D:\\NuGet.Config",
+          "C:\\Users\\matheus.conde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -32,8 +29,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
-                "projectPath": "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj"
+              "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+                "projectPath": "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj"
               }
             }
           }
@@ -66,22 +63,19 @@
         }
       }
     },
-    "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+    "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "projectUniqueName": "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
         "projectName": "Alura.LeilaoOnline.Core",
-        "projectPath": "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
-        "packagesPath": "C:\\Users\\139832\\.nuget\\packages\\",
-        "outputPath": "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\obj\\",
+        "projectPath": "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "packagesPath": "C:\\Users\\matheus.conde\\.nuget\\packages\\",
+        "outputPath": "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\139832\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "D:\\NuGet.Config",
+          "C:\\Users\\matheus.conde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

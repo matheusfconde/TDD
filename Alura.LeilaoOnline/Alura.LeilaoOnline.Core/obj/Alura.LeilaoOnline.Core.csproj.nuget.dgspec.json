@@ -1,25 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {}
+    "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {}
   },
   "projects": {
-    "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+    "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "projectUniqueName": "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
         "projectName": "Alura.LeilaoOnline.Core",
-        "projectPath": "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
-        "packagesPath": "C:\\Users\\139832\\.nuget\\packages\\",
-        "outputPath": "C:\\_desenvolvimento\\Estudos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\obj\\",
+        "projectPath": "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "packagesPath": "C:\\Users\\matheus.conde\\.nuget\\packages\\",
+        "outputPath": "D:\\_Developer\\TDD\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\139832\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "D:\\NuGet.Config",
+          "C:\\Users\\matheus.conde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

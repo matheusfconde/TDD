@@ -7,3 +7,12 @@ C:\_desenvolvimento\Estudos\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug
 C:\_desenvolvimento\Estudos\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
 C:\_desenvolvimento\Estudos\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.dll
 C:\_desenvolvimento\Estudos\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.pdb
+D:\_Developer\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnline.Core.deps.json
+D:\_Developer\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnline.Core.dll
+D:\_Developer\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnline.Core.pdb
+D:\_Developer\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.csprojAssemblyReference.cache
+D:\_Developer\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+D:\_Developer\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+D:\_Developer\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+D:\_Developer\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.dll
+D:\_Developer\TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.pdb
